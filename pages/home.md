@@ -70,25 +70,20 @@ Located on already five continents our goal is to facilitate the initiation of a
 
 * Growth of network of data users
 * Growth of databases and networked databases
-
 * Use in the GBF: the number of goals & targets, indicator dev.
 * Number & roles of active Global South indiv & orgs, diversity distrib.
 * Active regional/ nat. data centers
 * Permanent growth in human resources
 * Nature capital growth
 * Contributions to ABS: indicators, non-monetary contributions/benefits shared
-
 * Participators - whether as commenters, proposers of use cases, evangelists
 * Increase the BUS factor - would DES idea live on if we all disappeared?
 * Seeding the term use of DES idea /aims in grants & publications
-
 * Demonstrated data aggregation of extended data and data returning to origin
-
 * Minted and used UUIDs for all objects
 * Example backbone in place
 * Adoption and implementation of backbone architecture
 * Fully funded action center providing infrastructure and other needs to support
-
 * Number of links generated
 * Annotations by source
 * Publication of data/links
