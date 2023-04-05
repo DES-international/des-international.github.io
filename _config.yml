@@ -1,0 +1,78 @@
+title: The Digital Extended Specimen                        # Title in top navigation bar (navbar) and <head>
+description: Developing a globally integrated and extensible biodiversity data infrastructure # Site description in <head>
+author: International Partners for the DES                    # Used for copyright statement in footer
+repository: des-international/des-international.github.io
+
+# SOCIAL PROFILES
+email: buschbom@posteo.de           # Social icon in footer
+github_username: des-international            # Social icon in footer
+
+# BUILD SETTINGS
+remote_theme: peterdesmet/petridish@3.0
+markdown: kramdown
+plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-remote-theme
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - LICENSE
+  - package-lock.json
+  - package.json
+  - petridish.gemspec
+exclude: [vendor]
+
+# THEME SETTINGS (ALL OPTIONAL)
+posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
+tweets_on_home: false                    # Show Twitter feed of social.twitter on homepage
+archive_permalink: /blog/               # Permalink of page using the archive.html layout, required when using post tags
+github_edit: true                       # Show an "edit this page" link in the footer, can also be name of branch (default: main)
+colors:
+  links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
+  banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
+font_serif: true                        # Font type for page content: serif (default) or slightly smaller sans-serif
+rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
+logo: /assets/theme/images/petri-dish_1f9eb.png   # Logo in navbar, will be displayed with 30px height
+
+# FRONTMATTER DEFAULTS
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
+      background: "assets/backgrounds/Zhangjiajie-Hunan_cncs_enWikipedia_CC-BY-SAIntl40_the_World_Heritage_Site_Wulingyuan_in_Zhangjiajie_of_Hunan_PR_China.jpg"
+      background_alt: "Image credit: https://en.wikipedia.org/wiki/zh:user:cncs_wikipedia (CC-BY-SA4)"
+      des-international_version: "0.0.1"
+      comments: true
+  - scope:
+      path: ""
+    values:
+      layout: "default"                 # Only required for Petridish website, implied for sites using a theme
+      background: "assets/backgrounds/Zhangjiajie-Hunan_cncs_enWikipedia_CC-BY-SAIntl40_the_World_Heritage_Site_Wulingyuan_in_Zhangjiajie_of_Hunan_PR_China.jpg"
+      background_alt: "Image credit: https://en.wikipedia.org/wiki/zh:user:cncs_wikipedia (CC-BY-SA4)"
+      des-international_version: "0.0.1"
+
+scholar:
+  style: elsevier-harvard
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: ./_bibliography
+  bibliography: references.bib
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  reference_tagname: div
+  bibliography_list_tag: ul
+  bibliography_template: bib
+
+  query: "@*"  
