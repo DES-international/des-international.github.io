@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # SITE SETTINGS
-title: "The Digital Extended Specimen"                        # Title in top navigation bar (navbar) and <head>
+title: The Digital Extended Specimen                        # Title in top navigation bar (navbar) and <head>
 description: Promoting integrated extensible biodiversity data infrastructures # Site description in <head>
 #description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
