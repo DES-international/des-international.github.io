@@ -64,6 +64,10 @@ Located on already five continents our goal is to facilitate the initiation of a
 * Support and movement: community, policy-makers, interfaces /w others
 * Show growth potential, i.e. by snowballing
 * A vehicle for discussion and experimentation
+* transactional backbone
+* data governance
+* distributed, federated
+* Community focus and capacity development
 
 
 #### Metrics
