@@ -23,7 +23,7 @@ We are an international group of event- and collection-based biodiversity scient
 
 ### Roadmap
 
-#### Unique position and capacity
+#### Unique capacity
 
 We are a global network of stakeholders that works towards an extensible technical and social infrastructures of data, tools, and working practices to bring together ongoing research and collaboration for the realization of a DES Network. 
 
