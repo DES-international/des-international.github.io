@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+#
 # SITE SETTINGS
 title: The Digital Extended Specimen                        # Title in top navigation bar (navbar) and <head>
 description: Promoting integrated extensible biodiversity data infrastructures # Site description in <head>
