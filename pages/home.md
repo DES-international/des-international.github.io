@@ -6,11 +6,7 @@ background: /assets/backgrounds/Zhangjiajie-Hunan_cncs_enWikipedia_CC-BY-SAIntl4
 permalink: /
 ---
 
-xxx
-
-## Biodiversity. Connection. Knowledge. Agency.
-
-x
+### **Biodiversity. Connection. Knowledge. Agency.**
 
 ### Vision
 
