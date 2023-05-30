@@ -8,7 +8,7 @@ permalink: /
 
 ### **Biodiversity. Connection.** 
 
-**Knowledge. Agency.**
+### **Knowledge. Agency.**
 
 ---
 
