@@ -10,6 +10,7 @@ permalink: /
 
 ## Biodiversity. Connection. Knowledge. Agency.
 
+x
 
 ### Vision
 
