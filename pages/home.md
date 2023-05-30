@@ -41,6 +41,6 @@ Our interest is in interlinking existing major regional biodiversity data infras
 
 ### In Four Words
 
-**Biodiversity. Connection. Knowledge. Agency.**
+> Biodiversity. Connection. Knowledge. Agency.
 
 
