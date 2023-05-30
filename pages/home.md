@@ -16,19 +16,19 @@ Expand on the community-driven successes to connect biodiversity data and knowle
 
 ### Stakeholders
 
-Indigenous peoples and local communities
-Policymakers (national, regional, global)
-Biodiversity scientists, ecologists, geoscientists
-Collections professionals, curators (inc. SPNHC)
-Conservation biologists
-Funding agencies
-Industry
-Consulting
-Agriculture
-Pharmaceutical 
-Federal agencies                                 
-Humanities and the Arts (STEM → STEAM)
-…
+* Indigenous peoples and local communities
+* Policymakers (national, regional, global)
+* Biodiversity scientists, ecologists, geoscientists
+* Collections professionals, curators (inc. SPNHC)
+* Conservation biologists
+* Funding agencies
+* Industry
+* Consulting
+* Agriculture
+* Pharmaceutical 
+* Federal agencies                                 
+* Humanities and the Arts (STEM → STEAM)
+* …
 
 
 ### Who we are
@@ -38,18 +38,3 @@ We are an international group of event- and collection-based biodiversity scient
 Our interest is in interlinking existing major regional biodiversity data infrastructures based on the [Digital Extended Specimen](https://doi.org/10.1093/biosci/biac060) concept (DES). A key goal is to facilitate the initiation of a globally integrated backbone that makes community participation and bidirectional interaction possible.
 
 
-
-
-
-
-
-
-[Petridish](https://github.com/peterdesmet/petridish) 
-
-## Installation
-
-See the demo website for instructions:
-
-- [Installation]({{ '/docs/installation/' | relative_url }})
-- [Configuration]({{ '/docs/configuration/' | relative_url }})
-- [Markdown]({{ '/docs/markdown/' | relative_url }})
