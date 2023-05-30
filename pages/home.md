@@ -39,8 +39,8 @@ We are an international group of event- and collection-based biodiversity scient
 Our interest is in interlinking existing major regional biodiversity data infrastructures based on the [Digital Extended Specimen](https://doi.org/10.1093/biosci/biac060) concept (DES). Thereby, a key objective is to facilitate the initiation of a globally integrated backbone that makes community participation and bidirectional interaction possible.
 
 
-### In Four Words
+In Four Words
 
-> Biodiversity. Connection. Knowledge. Agency.
+### Biodiversity. Connection. Knowledge. Agency.
 
 
