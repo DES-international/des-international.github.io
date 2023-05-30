@@ -35,6 +35,6 @@ Expand on the community-driven successes to connect biodiversity data and knowle
 
 We are an international group of event- and collection-based biodiversity scientists, infrastructure providers and biodiversity informaticians from five continents with advanced expertise and long-term experience in developing and interconnecting social and technical networks. 
 
-Our interest is in interlinking existing major regional biodiversity data infrastructures based on the [Digital Extended Specimen](https://doi.org/10.1093/biosci/biac060) concept (DES). A key goal is to facilitate the initiation of a globally integrated backbone that makes community participation and bidirectional interaction possible.
+Our interest is in interlinking existing major regional biodiversity data infrastructures based on the [Digital Extended Specimen](https://doi.org/10.1093/biosci/biac060) concept (DES). Thereby, a key objective is to facilitate the initiation of a globally integrated backbone that makes community participation and bidirectional interaction possible.
 
 
