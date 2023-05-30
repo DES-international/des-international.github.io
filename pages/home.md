@@ -6,6 +6,11 @@ background: /assets/backgrounds/Zhangjiajie-Hunan_cncs_enWikipedia_CC-BY-SAIntl4
 permalink: /
 ---
 
+
+
+## Biodiversity. Connection. Knowledge. Agency.
+
+
 ### Vision
 
 Enable research that contributes to novel discoveries and addresses the societal challenges leading to the biodiversity crisis.
