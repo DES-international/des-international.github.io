@@ -17,18 +17,21 @@ Expand on the community-driven successes to connect biodiversity data and knowle
 
 ### Stakeholders
 
+* Bio-/Geodiversity scientists, anthropologists
+* Collection professionals, curators, administrators
+* Conservation biologists and geneticists, ecologists, environmental scientists
+* Amateur experts and citizen scientists
 * Indigenous peoples and local communities
+* Biodiversity informaticians, ICT professionals
+* Natural science collection institutions
+* Professional societies, NGOs
+* Governmental agencies, UN agencies, intergovernmental organizations
 * Policymakers (national, regional, global)
-* Biodiversity scientists, ecologists, geoscientists
-* Collections professionals, curators (inc. SPNHC)
-* Conservation biologists
-* Funding agencies
-* Industry
-* Consulting
-* Agriculture
-* Pharmaceutical 
-* Federal agencies                                 
-* Humanities and the Arts (STEM → STEAM)
+* Funding agencies, investors
+* Industry (e.g. producing, pharmaceutical, financial)
+* Consulting businesses
+* Agriculture, forestry and fisheries                       
+* Humanities and the Arts
 * …
 
 
